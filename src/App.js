@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      Hello React with Netlify Cli
+      Hello React with Netlify Cli with CI/CD
     </div>
   );
 }
